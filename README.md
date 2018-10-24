@@ -4,4 +4,4 @@ I've tracked a high jump using an Inertial Mesurament Unit for a project in scho
 I've used Arduino (ArduinoIMUCode) and Matlab (from XioTechnologies) to process the data.
 <div align="center">
 ![alt text](https://github.com/queraltberingues/IMU-for-high-jump/blob/master/Screen%20Shot%202018-10-23%20at%2023.18.34.png)
-</div>
+
